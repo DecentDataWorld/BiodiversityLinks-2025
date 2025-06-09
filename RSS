@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="https://www.biodiversitylinks.org/RSS">
+  <title></title>
+  <link>https://www.biodiversitylinks.org</link>
+  <description></description>
+  <image rdf:resource="https://www.biodiversitylinks.org/logo.png" />
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/attitudes-perspectives-on-disease-surveillance-thailand.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/fao-2024-humanitarian-response-plans.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/different-definitions-health-well-being-and-the-effect-built-environment.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/who-coined-oh-cooperation-amid-siloization.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/global-health-equity-atlas.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/soil-health-assessment-using-remote-sensing.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/one-world-one-health-nov-2023.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/evidence-for-policies-practices-to-address-global-food-insecurity.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/collaborative-surveillance-hepr.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/african-oh-network-antimicrobial-resistance-tropical-diseases.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/planetary-health-ed-in-us-four-models.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/oh-assessment-of-mining-in-nigeria.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/oh-benefits-through-cross-sectoral-services.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/oh-framework-for-service-delivery-turkana-county.pdf/view" />
+      
+        <rdf:li rdf:resource="https://www.biodiversitylinks.org/library/cgfa-key-message-littering.pdf/view" />
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/attitudes-perspectives-on-disease-surveillance-thailand.pdf/view">
+    <title>Stakeholder Attitudes and Perspectives on Wildlife Disease Surveillance as a Component of a One Health Approach in Thailand</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/attitudes-perspectives-on-disease-surveillance-thailand.pdf/view</link>
+    <description>The aims of this study were to understand how wildlife disease surveillance in Thailand is utilized, valued, and can be improved within a One Health framework. An online questionnaire was distributed to 183 professionals across Thailand working in wildlife, marine animal, livestock, domestic animal, zoo animal, environmental, and public health sectors.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>2023</dc:subject>
+    
+      <dc:subject>Asia</dc:subject>
+    
+      <dc:subject>Thailand</dc:subject>
+    
+      <dc:subject>Case Study</dc:subject>
+    
+      <dc:subject>Governance/Management</dc:subject>
+    
+    <dc:date>2025-01-17T21:29:24Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/fao-2024-humanitarian-response-plans.pdf/view">
+    <title>FAO in the 2024 Humanitarian Response Plans</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/fao-2024-humanitarian-response-plans.pdf/view</link>
+    <description>This is a summary of the Food and Agriculture Organization of the United Nations (FAO) work in providing food and resources to people in food crises.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>Global</dc:subject>
+    
+      <dc:subject>Guidelines</dc:subject>
+    
+      <dc:subject>Governance/Management</dc:subject>
+    
+      <dc:subject>2023</dc:subject>
+    
+    <dc:date>2025-01-17T21:18:24Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/different-definitions-health-well-being-and-the-effect-built-environment.pdf/view">
+    <title>Individual Differences in the Definitions of Health and Well-being and the Underlying Promotional Effect of the Built Environment</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/different-definitions-health-well-being-and-the-effect-built-environment.pdf/view</link>
+    <description>This study adopted a mixed-methods approach to investigate how “health” and “well-being” have been defined within the literature and in the community with the aim to clarify the definitions of those two terms further.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>2024</dc:subject>
+    
+      <dc:subject>Global</dc:subject>
+    
+      <dc:subject>Research</dc:subject>
+    
+      <dc:subject>Human Well-Being</dc:subject>
+    
+    <dc:date>2025-01-17T21:11:48Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/who-coined-oh-cooperation-amid-siloization.pdf/view">
+    <title>Who Coined the Term “One Health”? Cooperation Amid the Siloization</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/who-coined-oh-cooperation-amid-siloization.pdf/view</link>
+    <description>This resource aims to describe the trajectory of the historical concept of "One Health."</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>2024</dc:subject>
+    
+      <dc:subject>Global</dc:subject>
+    
+      <dc:subject>Research</dc:subject>
+    
+      <dc:subject>Governance/Management</dc:subject>
+    
+    <dc:date>2025-01-17T21:05:14Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/global-health-equity-atlas.pdf/view">
+    <title>The Global Health Equity Atlas Releases a Decade of Data-Driven Insights in Pursuit of Health as a Fundamental Human Right</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/global-health-equity-atlas.pdf/view</link>
+    <description>The Global Health Equity Atlas is an essential tool that consolidates over a decade of dedicated work in the field of global health equity. This resource has been designed to facilitate the analysis of health equity, catering to academics, decision-makers and individuals committed to advancing health as a basic human right.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>2024</dc:subject>
+    
+      <dc:subject>Global</dc:subject>
+    
+      <dc:subject>Tool</dc:subject>
+    
+      <dc:subject>Governance/Management</dc:subject>
+    
+    <dc:date>2025-01-17T21:00:17Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/soil-health-assessment-using-remote-sensing.pdf/view">
+    <title>Soil Health Assessment and Spatial Characterization using Remote Sensing</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/soil-health-assessment-using-remote-sensing.pdf/view</link>
+    <description>This research summarizes recent developments in remote sensing (RS) approaches for measuring soil health and ecosystem services, their principles, and their future perspectives. This chapter also highlights the emerging concept of ecosystem services as commodities for future markets and discuss the possible application of RS techniques in developing markets.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Global</dc:subject>
+    
+      <dc:subject>Research</dc:subject>
+    
+      <dc:subject>Ecosystem Health</dc:subject>
+    
+      <dc:subject>2024</dc:subject>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+    <dc:date>2025-01-17T20:49:25Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/one-world-one-health-nov-2023.pdf/view">
+    <title>One World, One Health:  Exploring the Connectability between Human, Animal and Environmental Health</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/one-world-one-health-nov-2023.pdf/view</link>
+    <description>The purpose of our analysis was to better understand the stakeholders, influencers, key topics, and interaction shaping One Health conversations. Knowing these data patterns will allow a more comprehensive and effective means to convey the concepts and practices of One Health to enhance the health of people, animals, the environment, and ultimately the planet, between engaged partners.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>Global</dc:subject>
+    
+      <dc:subject>Report</dc:subject>
+    
+      <dc:subject>Ecosystem Health</dc:subject>
+    
+      <dc:subject>2023</dc:subject>
+    
+    <dc:date>2025-01-17T20:44:09Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/evidence-for-policies-practices-to-address-global-food-insecurity.pdf/view">
+    <title>Evidence for Policies and Practices to Address Global Food Insecurity</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/evidence-for-policies-practices-to-address-global-food-insecurity.pdf/view</link>
+    <description>This review summarizes evidence for policies and practices across five elements of the agrifood system framework and identifies gaps that inform an agenda for future research. Under availability, imbalanced agriculture policies protect primarily staple food producers, and there is limited evidence on food security impacts for smallholder and women food producers.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Global</dc:subject>
+    
+      <dc:subject>Review</dc:subject>
+    
+      <dc:subject>2024</dc:subject>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>Governance/Management</dc:subject>
+    
+    <dc:date>2025-01-17T20:37:26Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/collaborative-surveillance-hepr.pdf/view">
+    <title>Defining Collaborative Surveillance: A Core Concept for Strengthening the Global Architecture for Health Emergency Preparedness, Response, and Resilience</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/collaborative-surveillance-hepr.pdf/view</link>
+    <description>This concept paper proposes an ambitious set of capabilities for strengthening evidence for public health decision-making. However, countries’ starting points will differ not only with respect to surveillance capacity but also with respect to the strength of collaboration.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>2024</dc:subject>
+    
+      <dc:subject>Global</dc:subject>
+    
+      <dc:subject>Report</dc:subject>
+    
+      <dc:subject>Governance/Management</dc:subject>
+    
+    <dc:date>2025-01-17T20:28:45Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/african-oh-network-antimicrobial-resistance-tropical-diseases.pdf/view">
+    <title>An African One Health Network for Antimicrobial Resistance and Neglected Tropical Diseases</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/african-oh-network-antimicrobial-resistance-tropical-diseases.pdf/view</link>
+    <description>To best understand and tackle antimicrobial resistance (AMR), it is necessary to trace the linkages between human, animal, and environmental factors that contribute to AMR transmission via a One Health approach. The African One Health Network for Disease Prevention (ADAPT) seeks to build the capacity for improved, sustainable, locally led management of AMR and neglected tropical diseases, as well as for the stewardship of antimicrobials, across seven sub-Saharan African countries (Uganda, Senegal, Ghana, Nigeria, Democratic Republic of the Congo, Ethiopia, and Sudan) in partnership with state, local, and regional stakeholders.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>Africa</dc:subject>
+    
+      <dc:subject>Framework</dc:subject>
+    
+      <dc:subject>Infectious Disease</dc:subject>
+    
+      <dc:subject>2024</dc:subject>
+    
+    <dc:date>2025-01-17T19:53:25Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/planetary-health-ed-in-us-four-models.pdf/view">
+    <title>Planetary Health Education in the United States: Four Curricular Models, One Goal</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/planetary-health-ed-in-us-four-models.pdf/view</link>
+    <description>Global environmental crises demand scaled-up investment in education about planetary health. We identified college and university programs in the United States that focus on the human-animal-ecosystem nexus by systematically searching the 2023–2024 catalogs of more than 1000 schools.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>North America</dc:subject>
+    
+      <dc:subject>Research</dc:subject>
+    
+      <dc:subject>Governance/Management</dc:subject>
+    
+      <dc:subject>2024</dc:subject>
+    
+    <dc:date>2025-01-17T19:10:24Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/oh-assessment-of-mining-in-nigeria.pdf/view">
+    <title>Towards a One Health Assessment of Artisanal and Informal Mining in Benue State, Nigeria</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/oh-assessment-of-mining-in-nigeria.pdf/view</link>
+    <description>This study evaluated the eco-health risk associated with exposure to lead in mining sites in Benue State, Nigeria.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>Case Study</dc:subject>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>Africa</dc:subject>
+    
+      <dc:subject>Ecosystem Health</dc:subject>
+    
+      <dc:subject>2024</dc:subject>
+    
+    <dc:date>2025-01-17T19:07:09Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/oh-benefits-through-cross-sectoral-services.pdf/view">
+    <title>Reaping One Health Benefits Through Cross-sectoral Services</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/oh-benefits-through-cross-sectoral-services.pdf/view</link>
+    <description>This chapter describes the added value of One Health through synergies created in delivering integrated healthcare services across health sectors. Current integration is weak and in the context of One Health has a limited scope commonly restricted to ‘integrated surveillance’. In this chapter we use integration to refer to cross-sectoral healthcare/advisory service delivery, where service needs of communities are identified jointly by at least two health sectors, and cross-sectoral planning identifies ways to reach communities more effectively with targeted and relevant services.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>Global</dc:subject>
+    
+      <dc:subject>Report</dc:subject>
+    
+      <dc:subject>Governance/Management</dc:subject>
+    
+    <dc:date>2025-01-17T18:54:43Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/oh-framework-for-service-delivery-turkana-county.pdf/view">
+    <title>A One Health Framework for Integrated Service Delivery in Turkana County, Kenya</title>
+    <link>https://www.biodiversitylinks.org/learning-evidence/one-health-evidence/one-health-evidence-inbox/oh-framework-for-service-delivery-turkana-county.pdf/view</link>
+    <description>One Health approaches that integrate human and animal health service delivery can help to improve pastoralists’ health through increased vaccine coverage and improved access to services. Kenya has institutionalized One Health at the national level; however, progress at the subnational level has been limited due to sustainability concerns, competing priorities, and insufficient coordination platforms. To address this gap, this paper presents a One Health framework to aid in the implementation of integrated human and animal health policies in Turkana County.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>One Health</dc:subject>
+    
+      <dc:subject>Africa</dc:subject>
+    
+      <dc:subject>Framework</dc:subject>
+    
+      <dc:subject>Governance/Management</dc:subject>
+    
+      <dc:subject>2020</dc:subject>
+    
+    <dc:date>2025-01-17T18:50:12Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+  <item rdf:about="https://www.biodiversitylinks.org/library/cgfa-key-message-littering.pdf/view">
+    <title>Talk to Stop Littering - Key Message Matrix</title>
+    <link>https://www.biodiversitylinks.org/library/cgfa-key-message-littering.pdf/view</link>
+    <description>The USAID Cambodia Green Future Activity worked to empower Cambodian citizens—particularly youth—and civil society to use evidence-based social and behavior change communication (SBCC) to influence positive actions to support biodiversity conservation.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Biodiversity</dc:subject>
+    
+      <dc:subject>Cambodia</dc:subject>
+    
+      <dc:subject>2024</dc:subject>
+    
+      <dc:subject>Fact Sheet</dc:subject>
+    
+    <dc:date>2025-01-15T19:27:08Z</dc:date>
+    <dc:type>File</dc:type>
+  </item>
+
+
+
+</rdf:RDF>
