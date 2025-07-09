@@ -748,7 +748,7 @@ body.site-usaid-biodiversity-integration-case-study-competition.section-winners 
 }
 /* line 441, https://biodiversitylinks.org/++plone++custom/bridge-biodiversity-integration-case-study-competition.less */
 body.site-usaid-biodiversity-integration-case-study-competition.section-apply .banner-image {
-  background: rgba(0, 0, 0, 0) url("https://www.biodiversitylinks.org/++plone++static/++plone++custom/bridge-images/apply-banner.jpg") no-repeat scroll center center / cover;
+  background: rgba(0, 0, 0, 0) url("/++plone++static/++plone++custom/bridge-images/apply-banner.jpg") no-repeat scroll center center / cover;
   height: 400px;
   margin-bottom: 1em;
 }
@@ -2617,19 +2617,19 @@ body.site-wild-meat-collaborative-learning-group .col-4 {
   background-color: #DBDCCB;
   /*
 &.section-about-us .outer-wrapper {
-    background: rgba(0, 0, 0, 0) url("https://www.biodiversitylinks.org/++plone++static/++unique++2024-12-06%2023%3A30%3A40.058762/cwt-case-study-images/toucan-nick-karvounis.jpg") no-repeat scroll center -70px / cover ;
+    background: rgba(0, 0, 0, 0) url("/++plone++static/++unique++2024-12-06%2023%3A30%3A40.058762/cwt-case-study-images/toucan-nick-karvounis.jpg") no-repeat scroll center -70px / cover ;
     height: 320px;
     margin-bottom: 1em;
 }
 
 &.section-finalists .outer-wrapper, .section-finalists-test .outer-wrapper {
-    background: rgba(0, 0, 0, 0) url("https://www.biodiversitylinks.org/++plone++static/++unique++2024-12-06%2023%3A30%3A40.058762/cwt-case-study-images/toucan-nick-karvounis.jpg") no-repeat scroll center -70px / cover ;
+    background: rgba(0, 0, 0, 0) url("/++plone++static/++unique++2024-12-06%2023%3A30%3A40.058762/cwt-case-study-images/toucan-nick-karvounis.jpg") no-repeat scroll center -70px / cover ;
     height: 320px;
     margin-bottom: 1em;
 }*/
   /*
 &.section-submit .outer-wrapper {
-    background: rgba(0, 0, 0, 0) url("https://www.biodiversitylinks.org/++plone++static/++unique++2024-12-06%2023%3A30%3A40.058762/cwt-case-study-images/cage-banner.jpg") no-repeat 0 -50px / cover;
+    background: rgba(0, 0, 0, 0) url("/++plone++static/++unique++2024-12-06%2023%3A30%3A40.058762/cwt-case-study-images/cage-banner.jpg") no-repeat 0 -50px / cover;
     height: 300px;
     margin-bottom: 1em;
 }

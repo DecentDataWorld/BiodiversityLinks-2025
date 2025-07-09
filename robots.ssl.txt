@@ -1,4 +1,4 @@
-Sitemap: https://www.biodiversitylinks.org/sitemap.xml.gz
+Sitemap: /sitemap.xml.gz
 
 # Define access-restrictions for robots/spiders
 # http://www.robotstxt.org/wc/norobots.html

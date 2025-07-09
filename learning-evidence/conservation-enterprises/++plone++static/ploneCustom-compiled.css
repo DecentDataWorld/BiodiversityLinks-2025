@@ -2971,11 +2971,11 @@ h2.cwt-icon {
 }
 /* line 825, https://biodiversitylinks.org/++plone++custom/custom.less */
 .bg-where-we-work {
-  background: url(https://www.biodiversitylinks.org/learning-evidence/conservation-enterprises/site-images/slideshow-1/refs-cne-biodiversity-map-global-grey.webp) no-repeat center center / cover;
+  background: url(/learning-evidence/conservation-enterprises/site-images/slideshow-1/refs-cne-biodiversity-map-global-grey.webp) no-repeat center center / cover;
 }
 /* line 826, https://biodiversitylinks.org/++plone++custom/custom.less */
 .bg-enrm-framework {
-  background: url(https://www.biodiversitylinks.org/learning-evidence/conservation-enterprises/site-images/banner-images/chainpur-nepal.webp) no-repeat center center / cover;
+  background: url(/learning-evidence/conservation-enterprises/site-images/banner-images/chainpur-nepal.webp) no-repeat center center / cover;
 }
 /* line 828, https://biodiversitylinks.org/++plone++custom/custom.less */
 .bg-blue {
